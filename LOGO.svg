@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="305" viewBox="0 0 380 305">
+  <g>
+    <path fill="rgb(0,0,0)" fill-rule="evenodd" d="M5 255h370c2.75957512 0 5 2.24042488 5 5v40c0 2.75957512-2.24042488 5-5 5H5c-2.75957512 0-5-2.24042488-5-5v-40c0-2.75957512 2.24042488-5 5-5z"/>
+    <text font-size="0" style="white-space:pre">
+      <tspan x="26.5" y="288.5" fill="rgb(255,255,255)" dx="0" font-family="Arial" font-size="24" font-weight="400" style="white-space:pre;text-transform:none" letter-spacing="-.067">You </tspan> <tspan x="26.5" y="288.5" fill="rgb(255,255,255)" dx="46.901" font-family="Arial" font-size="24" font-weight="400" style="white-space:pre;text-transform:none" letter-spacing="-.067">Don't </tspan> <tspan x="26.5" y="288.5" fill="rgb(255,255,255)" dx="108.447" font-family="Arial" font-size="24" font-weight="400" style="white-space:pre;text-transform:none" letter-spacing="-.067">Know </tspan> <tspan x="26.5" y="288.5" fill="rgb(255,255,255)" dx="174.816" font-family="Arial" font-size="24" font-weight="400" style="white-space:pre;text-transform:none" letter-spacing="-.067">Mobile </tspan> <tspan x="26.5" y="288.5" fill="rgb(255,255,255)" dx="251.717" font-family="Arial" font-size="24" font-weight="400" style="white-space:pre;text-transform:none" letter-spacing="-.067">Design</tspan>
+    </text>
+    <path fill="rgb(0,0,0)" fill-rule="evenodd" d="M10 120h44c5.51915024 0 10 4.48084976 10 10v100c0 5.51915024-4.48084976 10-10 10H10c-5.51915024 0-10-4.48084976-10-10V130c0-5.51915024 4.48084976-10 10-10z"/>
+    <path fill="rgb(0,0,0)" fill-rule="evenodd" d="M198 0h174c4.4153202 0 8 3.5846798 8 8v224c0 4.4153202-3.5846798 8-8 8H198c-4.4153202 0-8-3.5846798-8-8V8c0-4.4153202 3.5846798-8 8-8z"/>
+    <path fill="rgb(0,0,0)" fill-rule="evenodd" d="M85 80h85c4.4153202 0 8 3.5846798 8 8v144c0 4.4153202-3.5846798 8-8 8H85c-4.4153202 0-8-3.5846798-8-8V88c0-4.4153202 3.5846798-8 8-8z"/>
+    <path fill="rgb(20,20,20)" fill-rule="evenodd" d="M90.5 86.5h74c4.4153202 0 8 3.5846798 8 8v131c0 4.4153202-3.5846798 8-8 8h-74c-4.4153202 0-8-3.5846798-8-8v-131c0-4.4153202 3.5846798-8 8-8z"/>
+    <path fill="rgb(20,20,20)" fill-rule="evenodd" d="M7 128h50c1.10383005 0 2 .89616995 2 2v98c0 1.10383005-.89616995 2-2 2H7c-1.10383005 0-2-.89616995-2-2v-98c0-1.10383005.89616995-2 2-2z"/>
+    <rect width="20" height="2" x="117.5" y="227" fill="rgb(255,255,255)"/>
+    <path fill="rgb(20,20,20)" fill-rule="evenodd" d="M208 10h154c4.4153202 0 8 3.5846798 8 8v194c0 4.4153202-3.5846798 8-8 8H208c-4.4153202 0-8-3.5846798-8-8V18c0-4.4153202 3.5846798-8 8-8z"/>
+    <path fill="rgb(255,255,255)" fill-rule="evenodd" d="M295 220c0 5.51915024-4.48084976 10-10 10s-10-4.48084976-10-10 4.48084976-10 10-10 10 4.48084976 10 10z"/>
+    <path fill="rgb(255,255,255)" fill-rule="evenodd" d="M37 230c0 2.75957512-2.24042488 5-5 5s-5-2.24042488-5-5 2.24042488-5 5-5 5 2.24042488 5 5z"/>
+  </g>
+</svg>
