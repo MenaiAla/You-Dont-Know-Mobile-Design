@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./LOGO.svg" > 
-  <h3>Your Ultimate Guide To Better Mobile User Interfaces For React Native Developers.</h3> 
+  <h3>The Ultimate Guide To Better Mobile User Interfaces For React Native Developers.</h3> 
 </div>
 
 ---
