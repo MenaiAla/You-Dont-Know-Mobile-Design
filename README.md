@@ -96,10 +96,5 @@ Controls can be:
 <li>Switches</li>
 <li>Text Fields</li>
 </ul>
-
 </p>
-<br>
-<div align="center">
-<img src="./assets/FIG-1.svg" width="50%"/>
-</div>
 </details>
